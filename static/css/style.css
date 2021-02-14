@@ -1,0 +1,40 @@
+.bmi-header {
+    text-align:center;
+}
+.please-enter {
+    text-align:center;
+    font-size:18px;
+    margin-top:20px;
+}
+.main {
+    text-align:center;
+}
+.result {
+    text-align:center;
+    margin-top:20px;
+}
+.result p{
+    font-size:18px;
+    font-weight:bold;
+}
+#bmi-form {
+    margin:0 auto;
+    background-color:lightgray;
+    width:350px;
+    padding: 10px 0px 10px 0px;
+}
+#bmi-form input{
+    margin: 5px 0px 5px 0px;
+}
+#bmi-form button{
+    margin-top: 10px;
+}
+#bmi-table {
+    margin-left:auto;
+    margin-right:auto;
+}
+.bmi-categories {
+    text-align:center;
+    font-size:18px;
+    margin-top:30px;
+}
